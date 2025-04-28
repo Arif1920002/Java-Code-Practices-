@@ -7,46 +7,48 @@ public class arithmeticOperation {
         int x = 10;
         int y = 3;
 
-        z = x + y;
+        /*z = x + y;
         z = x - y;
         z = x * y;
         z = x / y;
-        z = x % y;
+        z = x % y;*/
+
+
 
         //Augmented Assignment Operator
 
         int a = 20;
         int b = 5;
 
-        a += b;
+       /* a += b;
         a -= b;
         a *= b;
         a /= b;
-        a %= b;
+        a %= b; */
 
         //Increment and Decrement Operator
 
         int c = 10;
 
-        c++;
+       /* c++;
         c--;
         ++c;
-        --c;
+        --c; */
 
         //Logical Operator
 
         int d = 10;
         int e = 20;
 
-        boolean f = d < e;
+        /* boolean f = d < e;
         boolean g = d > e;
         boolean h = d <= e;
         boolean i = d >= e;
         boolean j = d == e;
-        boolean k = d != e;
+        boolean k = d != e; */
 
         //Order of Operations [PEMDAS]
-        /* P=Parentheses, E=Exponent, M=Multiplication, D=Division, A=Addition, S=Subtraction   */
+        /* P=Parentheses(), E=Exponent (to the power of), M=Multiplication (*), D=Division (/), A=Addition (+), S=Subtraction (-)   */
 
         int result;
 
