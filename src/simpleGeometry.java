@@ -41,6 +41,8 @@ public class simpleGeometry {
         rectangleArea = 0.5 * length * width;
         System.out.println("Area of the rectangle: " + rectangleArea);
 
+        //The rest of the code will be identical, plus we can make it a switch case for the user to choose which one they wanna output without prompting all the codes.
+
         scanner.close();
     }
 }
