@@ -19,5 +19,8 @@ public class printClass {
         System.out.printf("GPA: %f\n", gpa);
 
 
+        System.out.printf("I'm %s, %d years old. Currently i'm a Student with gpa %.2f and grade %c. I do a part time and my salary is %.2f $", name, age, gpa, grade, salary);
+
+
     }
 }
