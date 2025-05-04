@@ -12,7 +12,7 @@ public class simpleGeometry {
         // Area of a rectangle = length * width
         // Area of a circle = π * radius^2
         // Area of a square = side * side
-        // Area of a cylinder = 2 * π * radius * height + 2 * π * radius^2
+        // Area of a cylinder = (2 * π * radius * height) + (2 * π * radius^2)
 
 
         //triangle
@@ -41,6 +41,6 @@ public class simpleGeometry {
         rectangleArea = 0.5 * length * width;
         System.out.println("Area of the rectangle: " + rectangleArea);
 
-
+        scanner.close();
     }
 }
